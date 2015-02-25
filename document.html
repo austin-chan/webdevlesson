@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+	<title>Tuesday is Today</title>
+	<style>
+		body {
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<h2>Welcome to the Kevin Love Basketball League</h3>
+
+	<p>At a standing desk, your metabolism will increase. (That numb feeling in your feet is your body burning calories.) You will soon be able to eat whatever you want, whenever you want it. You can even mash a bunch of Pringles into a big ball and then snack on the Pringle ball throughout your workday. (This is what I do.) I used to get home from work totally exhausted. Now I'm brimming with energy. Instead of collapsing onto the couch, I pace my apartment all night long, in ever-tightening circles. I simply cannot sleep knowing that there are still people out there using traditional sitting desks!</p>
+
+	<img id="image" src="https://pbs.twimg.com/profile_images/562473327940206592/p1Z2mP1x.jpeg">
+
+	<script>
+		var image = document.getElementById('image');
+		var body = document.body;
+
+		body.addEventListener('click', function(){
+			body.style.background = "red";
+		});
+
+		image.addEventListener('click', function(){
+			document.body.removeChild(image);
+		});
+
+		setTimeout(function(){
+			alert("you've been on this site for a second.")
+		}, 1000);
+	</script>
+</body>
+</html>
