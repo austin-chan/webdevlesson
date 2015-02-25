@@ -1,7 +1,7 @@
 # Web Development Lesson
 Presented by the ACSU and hosted by Austin Chan at Cornell University
 
-These files above were walked through during the lesson, and here are some great resources for learning:
+These files above were walked through during the lesson, and below are some great resources for learning:
 
 ##Web Development Learning Resources
 [Nettuts](http://code.tutsplus.com/series/web-development-from-scratch--net-19995)
