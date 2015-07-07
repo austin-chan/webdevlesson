@@ -1,5 +1,5 @@
 # Web Development Lesson
-Presented by the ACSU and hosted by Austin Chan at Cornell University on Feb 24, 2015 in Phillips.
+Presented by the ACSU and hosted by Austin Chan at Cornell University on Feb 24, 2015 in Phillips Hall.
 
 These files above were walked through during the lesson, and below are some great resources for learning:
 
